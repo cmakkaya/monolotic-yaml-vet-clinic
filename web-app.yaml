@@ -24,9 +24,7 @@ spec:
               value: petclinic
             - name : MYSQL_PASSWORD
               value: petclinic
-
 ---
-
 apiVersion: v1
 kind: Service
 metadata:
